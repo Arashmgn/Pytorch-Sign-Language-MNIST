@@ -1,7 +1,8 @@
 __pycache__
 checkpoints
 docs
-images
+/images/onehot.png
+/images/imvectorkiank.png
 runs
 mlp.ipynb
 .idea
